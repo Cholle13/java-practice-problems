@@ -1,20 +1,20 @@
 #Change 
 
-| Program Name | Input File |
-|--------------|------------|
+| Program Name  |  Input File  |
+|---------------|--------------|
 | `Change.java` | `change.txt` |  
 
 ##Overview
 Bob is the manager at a Corner Store located somewhere on ID10T street. Bob has run into a serious problem that he must find a solution too. He has no clue how to calculate change!!! Write Bob some code to calculate change and he will be very grateful :)  
 
 ##Input  
-The first line of input contains the number of test cases to run. The next line contains 2 integers: the cost, amount paid.  
+The first line of input contains the number of test cases to run. The next line contains 2 integers: the cost, and the amount paid.  
   
 ##Output
-Output should contain the string, "Change: " followed by the amount of change which needs to be in the currency format  
+Output should contain the string, "Change: " followed by the amount of change which needs to be formatted as currency. 
 
 ##Hint
-I would suggest reading up on how to use printf()
+I would suggest reading up on how to use `printf()`
   
 ##Example Input File  
 ```
